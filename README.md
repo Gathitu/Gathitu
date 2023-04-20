@@ -17,5 +17,5 @@ My specialties are:
 - Other embedded hardware I have worked with is an ESP32
 
 
-**Certifications:**
+### Certifications:
 - **Android Development** Course Completion issued by **Google**: https://adscerts.com/scholar/9C01F3F7B6A7B23
