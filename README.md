@@ -15,3 +15,7 @@ My specialties are:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 - I have also worked with Protocol Buffers and gRPC
 - Other embedded hardware I have worked with is an ESP32
+
+
+**Certifications:**
+- **Android Development** Course Completion issued by **Google**: https://adscerts.com/scholar/9C01F3F7B6A7B23
