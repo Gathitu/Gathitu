@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+I am a Software Engineer with impressive expertise in full-stack development of Android, Web and Extended Reality (Augmented, Virtual and Mixed Reality) applications. 
+Also experienced in programming of firmware for embedded systems hardware and design of printed circuit boards (PCBs).
+
 My specialties are:
 - **Android Apps development**
 - **VR/AR Apps Development**
@@ -8,8 +12,48 @@ My specialties are:
 - **Printed Circuit Board Design**
 - **Design using Blender**
 
+<br>
 
-# 💻 Tech Stack:
+# 💻 Featured Projects
+## 1) During XR Bootcamp Prototyping Phase
+Developed 3 prototypes that show exciting capabilities of both **Virtual**(VR) and **Mixed Reality**(MR) – 
+[**See compiled video**](https://www.linkedin.com/posts/benson-gathitu_after-just-two-months-in-the-intense-xr-bootcamps-activity-7207777084302147585-Lc8A?utm_source=share&utm_medium=member_android)
+### i) MR Robot Arm Trajectory Simulator
+This prototype uses Mixed Reality to plan and visualize the trajectory of a robot arm within a real workspace. Users can adjust the trajectory to avoid collisions with objects, or optimize it for efficiency.
+
+### ii) VR Drive Academy
+This simulator uses Virtual Reality to provide a safe, immersive environment for learning and practicing driving skills, as well as understanding traffic rules and regulations. It aims not only to assist individuals in learning how to drive but also to prepare them for obtaining a driving license.
+
+### iii) [MR Tic-Tac-Toe Game](https://github.com/EngBen/Tic-Tac-Toe-Mixed-Reality-Game)
+This game leverages Mixed Reality, specifically the scene understanding feature, to make Tic-Tac-Toe more exciting. Players can interact with both virtual elements and real objects in their room simultaneously.
+
+<br>
+
+## 2) [Meta Presence Hackathon Submission](https://devpost.com/software/xrversetales#updates)
+Collaborated in a team of 4 to develop and submit **VerseTales**, an immersive Mixed Reality reading app that uses Llama3 and Stable Diffusion to create immersive images from a novel’s texts.
+Developed the scene understanding feature for the application, that helps detect walls in the user’s room and places a virtual bookshelf in front of the wall.
+
+## 3) [VR Chemical Lab](https://github.com/Gathitu/VR_Chemical_Lab)
+An application that uses Virtual Reality technology to simulate Chemical lab experiments. It is multi-player enabled, which means that 2 users can join the same lab at the same time, as well as see and talk to each other simultaneously. e.g a teacher and 4 students scenario.
+
+## 4) [VR Multi-Lab Facility](https://drive.google.com/file/d/1fSQ_tEYt0gPhL6ojZm04htPWA4yIyCLn/view)
+A Virtual Reality application that enables users to navigate and explore multiple laboratories, where they can perform a variety of experiments tailored to each lab's design.
+
+## 4) [VR Multi-Lab Facility](https://drive.google.com/file/d/1fSQ_tEYt0gPhL6ojZm04htPWA4yIyCLn/view)
+A Virtual Reality application that enables users to navigate and explore multiple laboratories, where they can perform a variety of experiments tailored to each lab's design.
+
+## 5) [Digital Twinning and IoT application in an Elevator System](https://github.com/Gathitu/Final_Year_Project)
+An Industry 4.0 Elevator system that uses IoT and Digital Twinning technologies for real-time floor-to-floor control and visualization. Control and visualization of the digital twin are achieved through an **Augmented Reality** Android app and a Web application. This system allows remote management and monitoring over a Local Area Network. 
+
+## 6) [Solar Irrigation System](https://github.com/Gathitu/solar_irrigation_project)
+A system that involved automating a solar irrigation plant through the design of a circuit board, development of firmware for the microcontroller, and creation of a website that performs data analytics on sensor readings from the irrigation system.
+
+## 7) [Facial Recognition Security System](https://drive.google.com/file/d/1uAGvrb81_K_PTBBYNv88RwFtqWOA3xrt/view)
+A security system that incorporates proximity and motion detection, alongside Image processing and recognition.
+
+<br>
+
+# 💻 Tech Stack
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -41,9 +85,9 @@ My specialties are:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### Cloud Hosting
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 
 ### Embedded Systems
@@ -59,4 +103,6 @@ My specialties are:
 - Windows
 
 # Certifications:
-- **Android Development** Course Completion issued by **Google**: https://adscerts.com/scholar/9C01F3F7B6A7B23
+- [**Certificate of Completion – High Honors**](https://drive.google.com/file/d/1uar8iDjH9iSxjNScpPJhKG71sJQYeqhz/view) issued by **XR Bootcamp**
+- [**Android Development Course Completion**](https://drive.google.com/file/d/1-AXtf3ZmguqW-yvDaU5NUv5-_SKSWW9y/view) issued by **Google**
+
