@@ -31,13 +31,11 @@ This game leverages Mixed Reality, specifically the scene understanding feature,
 
 ## 2) [Meta Presence Hackathon Submission](https://devpost.com/software/xrversetales#updates)
 Collaborated in a team of 4 to develop and submit **VerseTales**, an immersive Mixed Reality reading app that uses Llama3 and Stable Diffusion to create immersive images from a novel’s texts.
+
 Developed the scene understanding feature for the application, that helps detect walls in the user’s room and places a virtual bookshelf in front of the wall.
 
 ## 3) [VR Chemical Lab](https://github.com/Gathitu/VR_Chemical_Lab)
 An application that uses Virtual Reality technology to simulate Chemical lab experiments. It is multi-player enabled, which means that 2 users can join the same lab at the same time, as well as see and talk to each other simultaneously. e.g a teacher and 4 students scenario.
-
-## 4) [VR Multi-Lab Facility](https://drive.google.com/file/d/1fSQ_tEYt0gPhL6ojZm04htPWA4yIyCLn/view)
-A Virtual Reality application that enables users to navigate and explore multiple laboratories, where they can perform a variety of experiments tailored to each lab's design.
 
 ## 4) [VR Multi-Lab Facility](https://drive.google.com/file/d/1fSQ_tEYt0gPhL6ojZm04htPWA4yIyCLn/view)
 A Virtual Reality application that enables users to navigate and explore multiple laboratories, where they can perform a variety of experiments tailored to each lab's design.
@@ -56,8 +54,8 @@ A security system that incorporates proximity and motion detection, alongside Im
 # 💻 Tech Stack
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
